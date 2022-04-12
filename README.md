@@ -3,7 +3,7 @@
 ### Problem Statement
 As a data professional working for a pharmaceutical company, you need to develop a
 model that predicts whether a patient will be diagnosed with diabetes. The model needs
-to have an accuracy score greater than 0.85.
+to have an accuracy score greater than 0.80.
 You will be required to document the following steps:
   - Data Importation
   - Data Exploration
