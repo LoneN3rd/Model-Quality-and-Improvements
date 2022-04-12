@@ -1,4 +1,4 @@
-## Model-Quality-and-Improvements
+## Model Quality and Improvements
 
 ### Problem Statement
 As a data professional working for a pharmaceutical company, you need to develop a
